@@ -6,6 +6,7 @@ menubar.onclick=()=>{
 }
 const section=document.querySelectorAll('section');
 const navlink = document.querySelectorAll('header nav a')
+/*
 window.onscroll = ()=>{
     section.forEach(sec=>{
         let top = window.scrollY;
@@ -26,3 +27,4 @@ window.onscroll = ()=>{
     menubar.classList.remove('bx-x');
     Navbar.classList.remove('active')
 }
+*/
